@@ -1,2 +1,2 @@
 # nyan
-Just tweets にゃーん (nyan)
+Just tweets にゃーん (pronouced "nyan")
